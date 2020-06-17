@@ -1,0 +1,33 @@
+item.embersconstruct.stamp.name=%1$s Штамп
+item.embersconstruct.stamp_raw.name=Сырой %1$s Штамп
+
+oredict.name.gem=Гем
+
+tile.embersconstruct.kiln.name=Печь
+container.embersconstruct.kiln=Печь
+
+tile.embersconstruct.stamptable.name=Стол для штампа
+gui.embersconstruct.stamptable.name=Стол для штампа
+
+gui.jei.category.kiln=Пирообработка
+gui.jei.category.stamptable=Стол для штампа
+
+#Tab
+itemGroup.tabEmbersConstruct=Embers' Construct
+
+#Update-Checker
+embersconstruct.outdated=Новая версия %1$s доступна для Embers' Construct.
+embersconstruct.outdated.hover=Нажми для открытия страницы загрузки.
+
+#Config
+embersconstruct.config.section.general=Основная
+embersconstruct.config.showNewVersionMessage=Показать сообщение о новой версии
+
+embersconstruct.config.section.embersConstructRecipeSettings=Настройки рецептов Embers' Construct
+embersconstruct.config.stampTableNeedBlank=Столу для штампа нужны неиспользованные штампы.
+
+embersconstruct.config.section.tinkersConstructRecipeSettings=Настройки рецептов Tinkers' Construct
+embersconstruct.config.removeMelting=Удалить рецепты для плавки
+embersconstruct.config.removeAlloying=Удалить рецепты сплавления
+embersconstruct.config.removeTableCasting=Удалить стол рецептов литья
+embersconstruct.config.removeBasinCasting=Удалить рецепты бассейнов для литья
